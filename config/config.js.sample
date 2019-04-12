@@ -97,8 +97,8 @@ var config = {
 				lang: pl,
 				pollutionType: [
 				{
-				PM2.5, 
-				PM10
+				"PM2.5": 
+				"PM10"
 				}
 				],
 				showDates: true,
